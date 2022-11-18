@@ -9,3 +9,9 @@
 .Header > img{
   width: 100%;
 }
+
+@media(max-width:425px){
+  .Header{
+    max-width: 150px;
+  }
+}
